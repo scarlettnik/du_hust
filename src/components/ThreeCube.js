@@ -17,7 +17,6 @@ const ThreeCube = () => {
     let camera__ = null;
     let dots = [
         {
-            scale: 2,
             startX: 10,
             startY: 10,
             color: "#ff0000",
@@ -28,7 +27,6 @@ const ThreeCube = () => {
             }
         },
         {
-            scale: 2,
             startX: 15,
             startY: 12,
             color: "#00ff00",
